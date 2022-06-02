@@ -13,4 +13,6 @@ List of Scripts
 
 6-size.c -  prints the size of various types on the computer it is compiled and run on.
 
+100-intel - generates the assembly code (Intel syntax) of a C code and save it in an output file.
 
+ 

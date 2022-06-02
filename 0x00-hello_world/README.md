@@ -11,4 +11,6 @@ List of Scripts
 
 5-printf.c - prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
 
+6-size.c -  prints the size of various types on the computer it is compiled and run on.
+
 

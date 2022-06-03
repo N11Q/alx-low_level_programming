@@ -6,5 +6,7 @@ A fun collection of c files
 
 2-print_alphabet.c - prints the alphabet in lowercase, followed by a new line.
 
+3-print_alphabets.c - prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+
 
 

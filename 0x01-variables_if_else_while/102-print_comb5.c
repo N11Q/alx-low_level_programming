@@ -13,7 +13,7 @@ int main(void)
 	{
 		for (h = 0; h < 100; h++)
 		{
-			if (g <h)
+			if (g < h)
 			{
 				putchar((g / 10) + 48);
 				putchar((g % 10) + 48);

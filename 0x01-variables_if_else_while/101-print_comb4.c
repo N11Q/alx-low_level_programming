@@ -12,16 +12,16 @@ int main(void)
 
 	for (p = 48; p < 58; p++)
 	{
-		for (o = 49; o < 59; o++)
+		for (o = 49; o < 58; o++)
 		{
-			for (k = 50; k < 60; k++)
+			for (k = 50; k < 58; k++)
 			{
 				if (k > o && o > p)
 				{
 					putchar(p);
 					putchar(o);
 					putchar(k);
-					if (p !=55 || o != 56)
+					if (p != 55 || o != 56)
 					{
 						putchar(',');
 						putchar(' ');

@@ -23,7 +23,7 @@ int main(void)
 		}
 		continued = b + c;
 		b = c;
-		c = next;
+		c = continued;
 	}
 	return (0);
 }	

@@ -31,4 +31,4 @@ void print_to_98(int a)
 				printf("%d\n", p);
 		}
 	}
-}	
+}

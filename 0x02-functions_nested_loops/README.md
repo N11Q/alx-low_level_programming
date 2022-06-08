@@ -18,4 +18,6 @@ List of c programs
 
 6-abs.c - computes the absolute value of an integer.
 
+7-print_last_digit.c - prints the last digit of a number.
+
 

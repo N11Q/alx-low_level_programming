@@ -10,8 +10,8 @@ int main(void)
 	int a;
 	unsigned long int b, c, follows, sum;
 
-	a = 1;
-	b = 2;
+	b = 1;
+	c = 2;
 	sum = 0;
 
 	for (a = 1; a <= 33; ++a)

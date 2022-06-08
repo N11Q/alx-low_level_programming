@@ -20,7 +20,7 @@ void print_to_98(int a)
 				printf("%d, ", o);
 			else if (o == 98)
 				printf("%d\n", o);
-		}
+	}
 	}else if (a >= 98)
 	{
 		for (p = a; p >= 98; p--)
@@ -29,6 +29,6 @@ void print_to_98(int a)
 				printf("%d, ", p);
 			else if (p == 98)
 				printf("%d\n", p);
-		}
+ 		}
 	}
 }	

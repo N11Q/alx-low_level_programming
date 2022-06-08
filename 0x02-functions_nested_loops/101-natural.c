@@ -21,7 +21,7 @@ int main(void)
 			sum3 = sum3 + n;
 		} else if ((n % 5) == 0)
 		{
-			sum5 + sum5 + n;
+			sum5 = sum5 + n;
 		}
 	}
 	sum = sum3 + sum5;

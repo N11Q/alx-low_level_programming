@@ -11,3 +11,9 @@ List of c programs
 
 4-isalpha.c - checks for alphabetic character and returns 1 if c is a letter,
  lowercase or uppercase or 0 otherwise.
+
+5-sign.c - prints the sign of a number and returns 1,
+ prints + if n is greater than zero
+ 0 and prints 0 if n is zero -1 and prints - if n is less than zero
+
+

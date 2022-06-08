@@ -19,6 +19,7 @@ int main(void)
 		c = c + b;
 		b = c - b;
 	}
+
 	b1 = b / 1000000000;
 	b2 = b % 1000000000;
 	c1 = c / 1000000000;
@@ -31,7 +32,7 @@ int main(void)
 		c1 = c1 + b1;
 		b1 = c1 - b1;
 		c2 = c2 + b2;
-		b2 = b2 - c2;
+		b2 = c2 - b2;
 	}
 	printf("\n");
 	return (0);

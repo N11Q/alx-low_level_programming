@@ -5,7 +5,7 @@
  * rs, starting with 1 and 2, followed by a new line.
  * Return: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
 	int a;
 	unsigned long int b, c, follows, sum;
@@ -22,7 +22,7 @@ int main (void)
 		}
 		follows = b + c;
 		b = c;
-		b = follows;
+		c = follows;
 	}
 	printf("%lu\n", sum);
 	return (0);

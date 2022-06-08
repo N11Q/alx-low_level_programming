@@ -9,4 +9,5 @@ List of c programs
 3-islower.c - checks for lowercase character and returns 1 if c is lowercase
  and 0 otherwise.
 
-
+4-isalpha.c - checks for alphabetic character and returns 1 if c is a letter,
+ lowercase or uppercase or 0 otherwise.

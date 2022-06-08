@@ -22,7 +22,7 @@ int main(void)
 		}
 		follows = b + c;
 		b = c;
-		b = follows;
+		c = follows;
 	}
 	printf("%lu\n", sum);
 	return (0);

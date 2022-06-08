@@ -10,9 +10,9 @@
 
 void print_to_98(int a)
 {
-	int o,p;
+	int o, p;
 
-	if (a <=98)
+	if (a <= 98)
 	{
 		for (o = a; o <= 98; o++)
 		{
@@ -31,5 +31,4 @@ void print_to_98(int a)
 				printf("%d\n", p);
 		}
 	}
-}
-		
+}	

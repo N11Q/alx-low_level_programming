@@ -5,7 +5,6 @@
  * @c is the character checked
  * Return: 1 if c is a digit otherwise 0
  */
-
 int _isdigit(int c)
 {
 	return (c >= '1' && c <= '9');

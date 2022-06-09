@@ -16,12 +16,12 @@ void print_diagonal(int n)
 		{
 			for (p = 0; p < n; p++)
 			{
-				if (p == 1)
+				if (p == o)
 					_putchar('\\');
-				else if (p < 1)
+				else if (p < o)
 					_putchar(' ');
 				}
-			_putchar('\n');
+				_putchar('\n');
 		}
 	}
 }	

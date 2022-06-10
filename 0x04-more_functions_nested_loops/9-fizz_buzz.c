@@ -4,9 +4,9 @@
 /**
  * main -  prints the numbers from 1 to 100, followed by a new line
  * multiples of three print Fizz
- *  multiples of five print Buzz
- *  multiples of both three and five print FizzBuzz
- *  Return: Always 0 (Success)
+ * multiples of five print Buzz
+ * multiples of both three and five print FizzBuzz
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

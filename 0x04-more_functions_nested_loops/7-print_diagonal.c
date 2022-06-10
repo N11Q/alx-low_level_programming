@@ -11,7 +11,7 @@ void print_diagonal(int n)
 	} else
 	{
 		int o, p;
-		
+
 		for (o = 0; o < n; o++)
 		{
 			for (p = 0; p < n; p++)
@@ -24,4 +24,4 @@ void print_diagonal(int n)
 				_putchar('\n');
 		}
 	}
-}	
+}

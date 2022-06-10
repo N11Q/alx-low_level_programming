@@ -1,8 +1,3 @@
-Debugging and Debuugged programs
-
-0-main.c, main.h - tests that the function positive_or_negative()
- gives the correct output when given a case of 0.
-
-1-main.c - A program with a defective loop commented out.
-
-
+Debugging is an art mastered only through learning and practice,
+these files attempt to highlight a beginner's attempt to see and get
+rid of all these pesky bugs.

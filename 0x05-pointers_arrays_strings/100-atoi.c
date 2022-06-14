@@ -30,7 +30,7 @@ int _atoi(char *s)
 				isdigit = -isdigit;
 			c = c * 10 + isdigit;
 			d = 1;
-			if (s[a + 1] < '0' || s[i + 1] > '9')
+			if (s[a + 1] < '0' || s[a + 1] > '9')
 				break;
 			d = 0;
 		}

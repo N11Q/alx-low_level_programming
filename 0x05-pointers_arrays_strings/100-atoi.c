@@ -23,7 +23,7 @@ int _atoi(char *s)
 	{
 		if (s[a] == '-')
 			++b;
-		if (s[a] >= '0' && s[i] <= '9')
+		if (s[a] >= '0' && s[a] <= '9')
 		{
 			isdigit = s[a] - '0';
 			if (b % 2)

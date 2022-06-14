@@ -18,8 +18,8 @@ int main(void)
 	for (a = 0; a < 100; a++)
 	{
 		pwd[a] = rand() % 78;
-		sum += (pass[a] + '0');
-		putchar(pass[a] + '0');
+		sum += (pwd[a] + '0');
+		putchar(pwd[a] + '0');
 		if ((2772 - sum) - '0' < 78)
 		{
 			b = 2772 - sum - '0';

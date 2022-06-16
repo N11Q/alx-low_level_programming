@@ -6,7 +6,7 @@
  * @src: string used for appeneding
  * Return: Pointer to destination *dest
  */
-char _strcat(char *dest, char *src)
+char *_strcat(char *dest, char *src)
 {
 	int a, b;
 
@@ -21,6 +21,6 @@ char _strcat(char *dest, char *src)
 		b++;
 		a++;
 	}
-	dest[i] = '\0';
+	dest[a] = '\0';
 	return (dest);
 }
